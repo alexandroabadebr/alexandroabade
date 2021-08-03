@@ -1,11 +1,10 @@
-### 🖖 Eu sou o Alexandro Abade 😉 e que a Força esteja com você 
+### 🖖 I'm Alexandro Abade 😉 e que a Força esteja com você 
   
   ##
   
-- 👨🏽‍🚀 Desenvolvedor Front-end
-- 👨🏽‍🎓 Graduando ADS [UniDom Bosco]
-- 📝 Formando FullStack Developer
-- 🦊 Browser Preferido
+- 👨🏽‍🚀 Web Front-end Developer 
+- 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
+- 📝 Studying Penetration Testing [eSecurity]
 
 <div>
   <a href="https://github.com/alexandroabade">
@@ -28,5 +27,4 @@
   <a href = "mailto:alexandroabade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandroabade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-![Snake animation](https://github.com/alexandroabade/alexandroabade/blob/output/github-contribution-grid-snake.svg)
 </div>  
