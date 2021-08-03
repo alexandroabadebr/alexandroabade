@@ -2,8 +2,9 @@
   
   ##
   
-- 🧔🏽 Desenvolvedor Front-end
-- 📝 Estudando Typescript
+- 👨🏽‍🚀 Desenvolvedor Front-end
+- 📝 Formando FullStack Developer
+- 🦊 Browser Preferido
 
 <div>
   <a href="https://github.com/alexandroabade">
