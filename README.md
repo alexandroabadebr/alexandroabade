@@ -4,7 +4,7 @@
   
 - 👨🏽‍🚀 Web Front-end Developer 
 - 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
-- 📝 Studying Penetration Testing [eSecurity]
+- 🔓 Studying Penetration Testing [eSecurity]
 
 <div>
   <a href="https://github.com/alexandroabade">
@@ -28,5 +28,4 @@
   <a href="https://instagram.com/alexandroabade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandroabade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandroabade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>  
