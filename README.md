@@ -3,6 +3,7 @@
   ##
   
 - 👨🏽‍🚀 Desenvolvedor Front-end
+- 👨🏽‍🎓 Graduando ADS [UniDom Bosco]
 - 📝 Formando FullStack Developer
 - 🦊 Browser Preferido
 
