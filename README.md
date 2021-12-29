@@ -2,9 +2,8 @@
   
   ##
   
-- 👨🏽‍🚀 Web Front-end Developer 
 - 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
-- 🔓 Studying Penetration Testing [eSecurity]
+- 🔓 Studying penetration testing for liking [eSecurity]
 
 <div>
   <a href="https://github.com/alexandroabade">
@@ -18,10 +17,6 @@
   <img align="center" alt="Abade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
-  ![Alexandro Abade2 - Avatar](https://user-images.githubusercontent.com/5865711/128061467-bcba0e0a-d6ab-4589-8129-e48b233dc49d.png)
-  
-  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCOeD90SDMG3xHaWJg9vZQbQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
