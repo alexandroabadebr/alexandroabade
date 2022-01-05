@@ -3,8 +3,7 @@
   ##
   
 - 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
-- 🔓 Studying penetration testing for liking [eSecurity]
-
+- 🔓 Gosto muito de me superar aprendendo diariamente.
 <div>
   <a href="https://github.com/alexandroabade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandroabade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
