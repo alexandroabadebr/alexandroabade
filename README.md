@@ -3,7 +3,8 @@
   ##
   
 - 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
-- 🔓 Gosto muito de me superar aprendendo diariamente.
+- Atualmente atuo dentro de um time de engenharia do setor de passagens aéreas como estágiario :-)
+- Tenho a felicidade de fazer alguns treinamentos e evoluir profissionamente.
 <div>
   <a href="https://github.com/alexandroabade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandroabade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
