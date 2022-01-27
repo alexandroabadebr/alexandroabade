@@ -5,7 +5,7 @@
 - 👨🏽‍🎓 Graduating ADS [UniDom Bosco]
 - > O BUG força o programa a se adaptar, envolve-se em algo novo por causa disso. Funciona ao redor e dentro. Não importa o que aconteça ele muda, ele se torna algo novo.
 
-      Mr Robot
+       Mr Robot
 <div>
   <a href="https://github.com/alexandroabade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandroabade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
